@@ -3,7 +3,7 @@ package com.example.devops;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication(exclude = DevOpsAssignmentApplication.class )
+@SpringBootApplication
 public class DevOpsAssignmentApplication {
 
 	public static void main(String[] args) {
