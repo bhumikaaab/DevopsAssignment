@@ -28,7 +28,7 @@
 
 		<dependency>
 			<groupId>org.projectlombok</groupId>
-			<version>1.18.28</version>
+			<version>1.18.20</version>
 			<artifactId>lombok</artifactId>
 			<optional>true</optional>
 		</dependency>
@@ -51,6 +51,7 @@
 					<excludes>
 						<exclude>
 							<groupId>org.projectlombok</groupId>
+							<version>1.18.20</version>
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
